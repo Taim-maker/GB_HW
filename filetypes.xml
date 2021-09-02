@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="readme" type="AUTO_DETECTED" />
       <mapping pattern="1" type="AUTO_DETECTED" />
       <mapping pattern="less1" type="AUTO_DETECTED" />
       <mapping pattern="secret" type="AUTO_DETECTED" />
